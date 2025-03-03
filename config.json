@@ -1,0 +1,36 @@
+{
+    "main_video_path": "./vid_automation/video1/nursing.mp4",
+    "output_folder": "./vid_automation/video1/raw_clips",
+    "clips_config": [
+        {
+            "name": "clip1", 
+            "start_time": "212", 
+            "end_time": "310",
+            "title": "Why did you decide to study Nursing in Germany?",
+            "description": "3m32s-5m10s"
+        },
+        {
+            "name": "clip2", 
+            "start_time": "578", 
+            "end_time": "658",
+            "title": "How hard it was for you to learn German language?",
+            "description": "9m38s-10m58s"
+        },
+        {
+            "name": "clip3", 
+            "start_time": "868", 
+            "end_time": "970",
+            "title": "If I studied management in Nepal, am I eligible for Nursing Ausbildung?",
+            "description": "14m28s-16m10s"
+        },
+        {
+            "name": "clip4", 
+            "start_time": "1030", 
+            "end_time": "1200",
+            "title": "Nepal ma Nursing garisake paxi Germany ma Annerkenug process kasto xa?",
+            "description": "17m10s-20m"
+        }
+
+
+    ]
+}
