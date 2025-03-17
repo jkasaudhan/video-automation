@@ -52,10 +52,11 @@ def load_config(file_path):
         return None
     
 # Example usage
-if __name__ == "__main__":
-    main_video = "./vid_automation/clips/original.mov"
-    output_folder = "./vid_automation/clips"
-    config = load_config('./vid_automation/video1/config.json')
-    clips_config = config.get('clips_config')
+# if __name__ == "__main__":
+#    main_video = "./vid_automation/clips/original.mov"
+#    output_folder = "./vid_automation/clips"
+#    config = load_config('./vid_automation/video1/config.json')
+#    clips_config = config.get('clips_config')
 
-    split_video(config.get("main_video_path"), clips_config, config.get('output_folder'))
+#    split_video(config.get("main_video_path"), clips_config, config.get('output_folder'))
+
